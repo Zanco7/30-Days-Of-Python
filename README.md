@@ -17,8 +17,7 @@ This repository contains my 30-day Python challenge where I build one simple pro
 ## 📅 Projects List
 
 **Day 1:** Calculator ✔
-**Day 2:** Temperature Converter  
-**Day 3:** Number Guessing  
+**Day 2:** Number Guessing ✔  
 
 (Adding more every day…)
 
