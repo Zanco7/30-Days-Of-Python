@@ -19,6 +19,7 @@ This repository contains my 30-day Python challenge where I build one simple pro
 ✅ Day 1 — Calculator  
 ✅ Day 2 — Number Guessing Game  
 ✅ Day 3 — Temperature Converter  
+✅ Day 4 — Password Generator 
 
 
 (Adding more every day…)
