@@ -22,7 +22,9 @@ This repository contains my 30-day Python challenge where I build one simple pro
 ✅ Day 4 — Password Generator  
 ✅ Day 5 — To-Do List App  
 ✅ Day 6 — Word Counter  
-✅ Day 7 — Alarm Clock
+✅ Day 7 — Alarm Clock  
+✅ Day 8 — Dice Roller 🎲
+
 
  
 
