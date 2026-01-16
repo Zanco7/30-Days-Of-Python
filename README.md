@@ -26,7 +26,8 @@ This repository contains my 30-day Python challenge where I build one simple pro
 ✅ Day 8 — Dice Roller   
 ✅ Day 9 — Random Quote Generator   
 ✅ Day 10 — Contact Book   
-✅ Day 11 — Simple Quiz App  
+✅ Day 11 — Simple Quiz App   
+✅ Day 12 — Basic Stopwatch  
 
 
 
