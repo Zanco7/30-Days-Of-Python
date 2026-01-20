@@ -29,8 +29,9 @@ This repository contains my 30-day Python challenge where I build one simple pro
 ✅ Day 11 — Simple Quiz App   
 ✅ Day 12 — Basic Stopwatch   
 ✅ Day 13 — Currency Converter   
-✅ Day 14 — Simple Dictionary App   
-✅ Day 15 — BMI Calculator 
+✅ Day 14 — Simple Dictionary App  
+✅ Day 15 — BMI Calculator   
+✅ Day 16 — Rock Paper Scissors 
 
 
 
