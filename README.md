@@ -16,23 +16,23 @@ This repository contains my 30-day Python challenge where I build one simple pro
 
 ## 📅 Projects List
 
- ✅ Day 1 — Calculator
- ✅ Day 2 — Number Guessing Game
- ✅ Day 3 — Temperature Converter
- ✅ Day 4 — Password Generator
- ✅ Day 5 — To-Do List App
- ✅ Day 6 — Word Counter
- ✅ Day 7 — Alarm Clock
- ✅ Day 8 — Dice Roller
- ✅ Day 9 — Random Quote Generator
- ✅ Day 10 — Contact Book
- ✅ Day 11 — Simple Quiz App
- ✅ Day 12 — Basic Stopwatch
- ✅ Day 13 — Currency Converter
- ✅ Day 14 — Simple Dictionary App
- ✅ Day 15 — BMI Calculator
- ✅ Day 16 — Rock Paper Scissors
- ✅ Day 17 — File Organizer
+- ✅ Day 1 — Calculator
+- ✅ Day 2 — Number Guessing Game
+- ✅ Day 3 — Temperature Converter
+- ✅ Day 4 — Password Generator
+- ✅ Day 5 — To-Do List App
+- ✅ Day 6 — Word Counter
+- ✅ Day 7 — Alarm Clock
+- ✅ Day 8 — Dice Roller
+- ✅ Day 9 — Random Quote Generator
+- ✅ Day 10 — Contact Book
+- ✅ Day 11 — Simple Quiz App
+- ✅ Day 12 — Basic Stopwatch
+- ✅ Day 13 — Currency Converter
+- ✅ Day 14 — Simple Dictionary App
+- ✅ Day 15 — BMI Calculator
+- ✅ Day 16 — Rock Paper Scissors
+- ✅ Day 17 — File Organizer
 
 
 
