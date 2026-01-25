@@ -36,7 +36,7 @@ This repository contains my 30-day Python challenge where I build one simple pro
 - ✅ Day 18 — Simple Login System
 - ✅ Day 19 — Multiplication Table Tool
 - ✅ Day 20 — Simple Reminder App
-
+- ✅ Day 21 — Text Encrypt / Decrypt Tool
 
  
 
