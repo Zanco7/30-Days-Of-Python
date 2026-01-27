@@ -38,7 +38,7 @@ This repository contains my 30-day Python challenge where I build one simple pro
 - ✅ Day 20 — Simple Reminder App
 - ✅ Day 21 — Text Encrypt / Decrypt Tool
 - ✅ Day 22 — Notes App
- 
+- ✅ Day 23 — Flash Card Learning App 
 
 
 (Adding more every day…)
