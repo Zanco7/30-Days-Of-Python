@@ -39,7 +39,8 @@ This repository contains my 30-day Python challenge where I build one simple pro
 - ✅ Day 21 — Text Encrypt / Decrypt Tool
 - ✅ Day 22 — Notes App
 - ✅ Day 23 — Flash Card Learning App 
-- ✅ Day 24 — Prime Number Checker 
+- ✅ Day 24 — Prime Number Checker
+  
 (Adding more every day…)
 
 ---
