@@ -40,7 +40,9 @@ This repository contains my 30-day Python challenge where I build one simple pro
 - ✅ Day 22 — Notes App
 - ✅ Day 23 — Flash Card Learning App 
 - ✅ Day 24 — Prime Number Checker
-  
+- ✅ Day 25 — Simple Expenses Tracker
+
+ 
 (Adding more every day…)
 
 ---
