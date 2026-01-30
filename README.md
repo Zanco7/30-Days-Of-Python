@@ -41,7 +41,7 @@ This repository contains my 30-day Python challenge where I build one simple pro
 - ✅ Day 23 — Flash Card Learning App 
 - ✅ Day 24 — Prime Number Checker
 - ✅ Day 25 — Simple Expenses Tracker
-
+- ✅ Day 26 — Weather App (API Based)
  
 (Adding more every day…)
 
