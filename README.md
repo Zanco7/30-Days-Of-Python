@@ -43,6 +43,8 @@ This repository contains my 30-day Python challenge where I build one simple pro
 - ✅ Day 25 — Simple Expenses Tracker
 - ✅ Day 26 — Weather App (API Based)
 - ✅ Day 27 — QR Code Generator
+- ✅ Day 28 — Screenshot Tool
+  
 
  
 (Adding more every day…)
