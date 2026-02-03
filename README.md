@@ -45,11 +45,9 @@ This repository contains my 30-day Python challenge where I build one simple pro
 - ✅ Day 27 — QR Code Generator
 - ✅ Day 28 — Screenshot Tool
 - ✅ Day 29 — Simple Email Sender
-
-  
-
+- ✅ Day 30 — Python Challenge Completion Certificate
  
-(Adding more every day…)
+(DONE - 30/30)
 
 ---
 
